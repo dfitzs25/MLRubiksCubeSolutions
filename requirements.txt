@@ -1,0 +1,6 @@
+torch 
+torchvision
+numpy
+coremltools
+# not really needed but sounded cool
+tqdm
